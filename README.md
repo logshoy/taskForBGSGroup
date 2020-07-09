@@ -6,9 +6,11 @@ taskForBGSGroup
 2) С помощью npm (если нет npm скачать node.js)в командой строке в папке с проектом ввести следущие команды:
 
 npm install
+
 a)В режимиме разработки команда: 
 npm run dev 
 И зайти на http://localhost:3000/  
+
 б)Собрать и проект и запустить:
 npm run build
 npm run export
