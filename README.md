@@ -8,11 +8,17 @@ taskForBGSGroup
 npm install
 
 a)В режимиме разработки команда: 
+
 npm run dev 
+
 И зайти на http://localhost:3000/  
 
 б)Собрать и проект и запустить:
+
 npm run build
+
 npm run export
+
 npm run serve
+
 И зайти на http://localhost:3000/ 
